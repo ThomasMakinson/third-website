@@ -1,0 +1,18 @@
+body {
+    background-color: #050624;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white; 
+}
+.main-button {
+    background-color: #FFFFFF;
+    color: #050624;
+    padding: 10px 15px;
+    font-size: 20px;
+    float: left;
+    transition-duration: 0.4s;
+}
+.main-button:hover {
+    background-color: #050624;
+    color: white;
+}
+  
